@@ -513,6 +513,7 @@
     "launchpad.ethereum.org"
   ],
   "blacklist": [
+    "suite-trezor-io.vivendadigital.com",
     "blockchain-control.com",
     "coumpound.finance",
     "trezorsuite.netlify.app",
